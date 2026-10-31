@@ -7,6 +7,12 @@ Login Menu
 - Manager – Login required.
 - Exit – Closes the program.
 
+# Default Login Accounts
+| Role | Email | Password |
+|---|---|---|
+| Staff | `staff@gmail.com` | `staff123` |
+| Manager | `manager@gmail.com` | `manager123` |
+
 # Staff Menu 
 1. Add Bun
 2. View Bun Inventory
@@ -25,11 +31,6 @@ Login Menu
 - Take buns out of stock.
 - Remove bun records.
 4. Log Out
-
-| Role | Email | Password |
-|---|---|---|
-| Staff | `staff@gmail.com` | `staff123` |
-| Manager | `manager@gmail.com` | `manager123` |
 
 # Available Bun Types
 - Soft Burger Bun
